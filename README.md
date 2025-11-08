@@ -27,7 +27,7 @@ An intelligent web application that matches project proposals with relevant gran
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://15121connect.github.io/grant-proposal-analyzer)
+[View Live Demo](docs/videos/demo-video.mp4)
 
 ## 🛠️ Tech Stack
 
