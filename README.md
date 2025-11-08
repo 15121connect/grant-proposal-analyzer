@@ -28,8 +28,7 @@ An intelligent web application that matches project proposals with relevant gran
 ## 🚀 Live Demo
 
 [View Live Demo](docs/videos/demo-video.mp4)
-        <video src="docs/videos/demo-video.mp4" controls>
-</video>
+        
 
 ## 🛠️ Tech Stack
 
