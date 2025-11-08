@@ -2,8 +2,7 @@
 
 An intelligent web application that matches project proposals with relevant grant opportunities using AI-powered analysis and semantic matching.
 
-![Demo Screenshot](docs/screenshots/screenshot_1.png)
-![Demo Screenshot](docs/screenshots/screenshot_3.png)
+![Demo Screenshot](docs/screenshots/demo_screenshot.png)
 
 ## 🌟 Features
 
